@@ -1,0 +1,2 @@
+# MentalHealthActivitiesUSMetroAreas
+U.S. Mental Health Activities Survey (during the pandemic)  To measure the impact of the pandemic the Census partnered with different governamental agencies and distributed a Pulse Survey among the population.  This analysis will focus on the mental health aspect and evaluate the distribution of the population answers to following aspects: (q1) received counselling or therapy, (q2) needed counselling or therapy, (q3) took medial prescription for mental health conditions
